@@ -20,4 +20,4 @@ def main():
     print(calcula_grado(x))
 
 if __name__=='__main__':
-    main()
+    main() 
